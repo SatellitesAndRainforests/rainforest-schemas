@@ -7,7 +7,7 @@
     <groupId>com.rainforest</groupId>
     <artifactId>rainforest-schemas</artifactId>
     <version>1.0.0</version>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>Rainforest Schemas</name>
 
