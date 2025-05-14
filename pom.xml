@@ -1,20 +1,17 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project>
+  <modelVersion>4.0.0</modelVersion>
 
-    <modelVersion>4.0.0</modelVersion>
+  <groupId>com.rainforest</groupId>
+  <artifactId>rainforest-schemas</artifactId>
+  <version>1.0.0</version>
+  <packaging>jar</packaging>
 
-    <groupId>com.rainforest</groupId>
-    <artifactId>rainforest-schemas</artifactId>
-    <version>1.0.0</version>
-    <packaging>pom</packaging>
+  <name>Rainforest Schemas</name>
 
-    <name>Rainforest Schemas</name>
-
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-    </properties>
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+  </properties>
 
 </project>
 
